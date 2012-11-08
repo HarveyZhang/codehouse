@@ -1,0 +1,32 @@
+img {
+	position: absolute;
+}
+
+.img-caption {
+	top: 0;
+	left: 0;
+	width: 355px;
+	height: 444px;
+	position: relative;
+	background: rgba(0, 0, 0, 0.7);
+	margin: 0;
+	padding: 0;
+	border: 0;
+	text-decoration: none;
+}
+
+.img-caption h4 {
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	margin: 0;
+	text-decoration: none;
+}
+
+.img-caption p {
+	font-size: 10px;
+	color: white;
+	margin: 0;
+	text-decoration: none;
+	word-wrap: break-word;
+}
